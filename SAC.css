@@ -405,7 +405,7 @@ background-image: url(Application.jpg);
 background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
 color: white;
 border: 3px solid #f1f1f1;
-position: absolute;
+/*position: absolute;*/
 /*top: 83.5%;*/
 /*left: 50%;*/
 /*transform: translate(-50%, -50%);*/
