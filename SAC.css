@@ -389,8 +389,10 @@ html
 .Background
 {
 background-image: url(Application.jpg);
+ /*
  filter: blur(5px);
  -webkit-filter: blur(5px);
+ */
  height: 50vh;
  background-position: center;
  background-repeat: no-repeat;
